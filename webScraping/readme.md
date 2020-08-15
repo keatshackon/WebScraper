@@ -3,7 +3,6 @@
 
 <b>Web scraping</b>, <b>web harvesting</b>, or <b>web data extraction</b> is data scraping used for extracting data from websites using its HTML structure, In this post, I will explain basic fundaments of web scraping using python and also explore it by a live demonstration with two python libraries Beautifulsoup and requests respectively.
 
-<span style="text-decoration: underline;"><strong>What you will learn from this post:</strong></span>
 
 <span style="text-decoration: underline;"><strong>Requirements:</strong></span>
 <ul>
